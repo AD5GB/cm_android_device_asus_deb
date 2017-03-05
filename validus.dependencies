@@ -2,7 +2,7 @@
  {
    "repository": "AD5GB/cm_android_device_asus_flo",
    "target_path": "device/asus/flo"
-   "branch": "7.1.1"
+   "branch": "n7.1.1"
  },
  {
    "repository": "TheMuppets/proprietary_vendor_asus",
