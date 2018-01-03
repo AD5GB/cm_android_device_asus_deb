@@ -15,5 +15,6 @@
 #
 
 #add_lunch_combo tesla_deb-userdebug
-add_lunch_combo validus_deb-userdebug
+#add_lunch_combo validus_deb-userdebug
+add_lunch_combo gzosp_deb-userdebug
 #add_lunch_combo tipsy_deb-userdebug
